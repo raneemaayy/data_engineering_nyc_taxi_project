@@ -1,9 +1,9 @@
 paths:
-  raw_zones: "C:\Users\raneem\Desktop\taxi trips Data Engineering project/data/raw/taxi_zone_lookup.csv"
-  raw_trips: "C:\Users\raneem\Desktop\taxi trips Data Engineering project/data/raw/yellow_tripdata_2024-01.parquet"
-  cleaned_output: "C:\Users\raneem\Desktop\taxi trips Data Engineering project/data/cleaned/"
-  reports_output: "C:\Users\raneem\Desktop\taxi trips Data Engineering project/data/reports/"
-  logs_dir: "C:\Users\raneem\Desktop\taxi trips Data Engineering project/logs/"
+  raw_zones: "data/raw/taxi_zone_lookup.csv"
+  raw_trips: "data/raw/yellow_tripdata_2024-01.parquet"
+  cleaned_output: "data/clean/"
+  reports_output: "data/reports/"
+  logs_dir: "logs/"
 
 
 
